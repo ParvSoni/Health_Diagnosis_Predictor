@@ -21,8 +21,6 @@ Early Detection: Early detection of diseases is crucial for timely medical inter
 
 User-Friendly: The app is designed to be user-friendly, making it accessible to individuals without a background in data science or medicine.
 
-Privacy: Privacy and data security are prioritized. The app ensures that user data is handled securely and anonymously.
-
 Educational: The app can also serve as an educational tool, helping users understand the risk factors associated with each disease and how they can take proactive steps to maintain their health.
 
 The Health Diagnosis Predictor is a valuable tool for individuals who want to take a proactive approach to their health. By harnessing the power of machine learning, this app offers quick and convenient disease risk assessments, potentially saving lives through early detection. It empowers users to make informed decisions about their health and seek medical advice when necessary.

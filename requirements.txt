@@ -1,0 +1,3 @@
+streamlit
+pickle
+streamlit_option_menu

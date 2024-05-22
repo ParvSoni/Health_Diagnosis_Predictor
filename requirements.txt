@@ -1,3 +1,2 @@
-streamlit
-pickle
-streamlit_option_menu
+streamlit == 1.29.0
+streamlit_option_menu = 0.3.12

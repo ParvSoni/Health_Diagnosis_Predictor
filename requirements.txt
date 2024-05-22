@@ -1,2 +1,2 @@
 streamlit == 1.29.0
-streamlit_option_menu = 0.3.12
+streamlit_option_menu == 0.3.12
